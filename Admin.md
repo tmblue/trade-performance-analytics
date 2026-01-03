@@ -7,6 +7,12 @@ It is where raw broker data becomes structured trades, where the database is mai
 
 This page is intentionally utilitarian — it is not about performance visualization, but about **data integrity, control, and repeatability**.
 
+## Admin Overview
+
+The Admin page is the system’s control plane for data ingestion and maintenance.
+
+![Admin Overview](screenshots/Admin/admin-overview.png)
+
 ---
 
 ## Purpose
@@ -79,11 +85,6 @@ To support this:
 
 This allows experimentation without permanent data loss.
 
-## Admin Overview
-
-The Admin page is the system’s control plane for data ingestion and maintenance.
-
-![Admin Overview](screenshots/Admin/admin-overview.png)
 
 ---
 
